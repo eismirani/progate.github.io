@@ -1,0 +1,62 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+  .container h1{
+    font-size: 32px;
+  }
+  .lesson{
+    width: 50%;
+    
+    
+  }
+  h2{
+    font-size: 20px;
+  }
+  
+  p{
+    margin-bottom: 50px;
+  }
+  
+  
+  
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+  .header-right {
+    display: none;
+  }
+  
+  .menu-icon {
+    display: block;
+  }
+  
+  .top-wrapper{
+    text-align: left;
+  }
+  
+  .top-wrapper h1{
+     line-height: 36px;
+     font-size: 24px;
+  }
+  
+  .top-wrapper p{
+    line-height: 20px;
+    font-size: 14px;
+  }
+  
+  .btn{
+    width: 100%;
+  }
+  .facebook{
+    margin-bottom: 10px;
+  }
+  .lesson{
+    width:100%;
+  }
+  .container{
+    text-align:center;
+    
+
+  }
+  
+}
