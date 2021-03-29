@@ -61,18 +61,7 @@ a {
  
 }
 
-.facebook{
-  background-color: #3b5998;
-  opacity: 0.8;
-  margin-right: 10px;
-  
-}
 
-.twitter{
-  background-color: #55acee;
-  opacity: 0.8;
- 
-}
 
 .btn{
   padding: 12px 24px;
@@ -81,15 +70,13 @@ a {
   display: inline-block;
 }
 
-.fa{
-  margin-right: 5px;
-}
+
 .btn:hover{
   opacity: 0.1;
 }
 
 header{
-  background-color: rgba(34,49,52,0.9);
+  
   width: 100%;
   position: fixed;
   height: 65px;
@@ -109,23 +96,10 @@ header{
   
 }
 
-.header-right{
-  float:right;
-  background-color: rgba(255,255,255,0.3);
-  transition: all 0.5s;
-  margin-right: 45px; 
-}
 
-.header-right:hover {
-  background-color: rgba(255,255,255, 0.5);
-}
 
-.header-right a {
-  padding: 0 25px;
-  color: white;
-  display: block;
-  line-height: 65px;
-}
+
+
 
 .heading{
   padding: 60px 0 30px 0;
