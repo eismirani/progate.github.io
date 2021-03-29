@@ -203,7 +203,7 @@ margin-top: 30px;}
  .contact-submit{
    margin-bottom: 30px;
    color: #889eab;
-   background-color: #dee7ec;
+   background-color: #A3EBB1;
  }
   
 
@@ -215,11 +215,12 @@ background-color: white;
   float:left;
   margin-top: 20px;
   margin-left: 30px;
+  margin-bottom: 30px;
 }
 
 .footer{
   border: 1px #eee;
-  padding: 20px 30px;
+  padding: 30px 30px;
   
 }
 
