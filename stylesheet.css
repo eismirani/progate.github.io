@@ -127,7 +127,7 @@ header{
 
 .lesson {
   float: left;
-  width: 33,33%;
+  width: 33.33%;
   text-align: center;
 
   
@@ -139,6 +139,7 @@ header{
   position: relative;
     z-index:0;
   margin: 0 auto;
+  width: 33.33%;
     
   
 }
