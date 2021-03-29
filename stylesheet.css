@@ -28,7 +28,9 @@ a {
 
 margin-left: 10px;
 position: fixed;
-z-index: 10;}
+z-index: 10;
+margin-bottom: 10px;
+}
 
 .top-wrapper{
   background-image: url(pixel-art.png);
