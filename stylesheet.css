@@ -25,7 +25,7 @@ a {
 }
 
 .header-left{
-float: left;
+
 margin-left: 10px;
 position: fixed;
 z-index: 10;}
@@ -161,6 +161,7 @@ header{
 .footer-logo{
   float:left;
   margin-top: 20px;
+  margin-left: 10px;
 }
 
 .footer{
