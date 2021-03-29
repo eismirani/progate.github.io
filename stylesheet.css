@@ -94,7 +94,7 @@ header{
 
 .logo{
   width: 124px;
-  padding: 20px 0;
+  padding: 10px 0;
   margin-left: 50px;
   position: fixed;
 }
@@ -144,7 +144,7 @@ header{
 .lesson-icon{
   position: relative;
     z-index:0;
-  text-align: center;
+  margin: 0 auto;
     
   
 }
@@ -154,6 +154,7 @@ header{
   top: 90px;
   position: absolute;
   width: 100%;
+  
 }
 
 .container{
@@ -187,12 +188,12 @@ header{
 
 .footer-logo{
   float:left;
-  margin-top: 30px;
+  margin-top: 10px;
 }
 
 .footer{
   border: 1px #eee;
-  font-size: 12px;
+  
 }
 
   
