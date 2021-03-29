@@ -113,7 +113,7 @@ header{
 
 .logo{
   width: 124px;
-  padding: 5px 0;
+  padding: 0px 10px 20px 20px;
   margin-left: 50px;
   position: fixed;
 }
@@ -126,18 +126,15 @@ header{
 .lessons{
 margin-top: 30px;}
 
+
+
+
 .lesson-wrapper{
   height: 580px;
   background-color: #A3EBB1;
 }
 
-.txt-content {
-  color: #b3aeb5;
-  font-size: 15px;
-  width: 80%;
-  display: inline-block;
-  margin-top: 20px;
-}
+
 
 .lesson {
   float: left;
@@ -158,11 +155,20 @@ margin-top: 30px;}
   
 }
 
+.txt-content {
+  color: white;
+  font-size: 15px;
+  width: 80%;
+  display: inline-block;
+  margin-top: 20px;
+}
+
 .lesson-icon p{
   color: white;
   top: 90px;
   position: absolute;
   width: 100%;
+  text-align: 10;
   
 }
 
